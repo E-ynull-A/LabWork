@@ -1,0 +1,15 @@
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\bin\Debug\net8.0\CheckTask.exe
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\bin\Debug\net8.0\CheckTask.deps.json
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\bin\Debug\net8.0\CheckTask.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\bin\Debug\net8.0\CheckTask.dll
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\bin\Debug\net8.0\CheckTask.pdb
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\CheckTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\CheckTask.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\CheckTask.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\CheckTask.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\CheckTask.sourcelink.json
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\CheckTask.dll
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\refint\CheckTask.dll
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\CheckTask.pdb
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\CheckTask.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\C# Work\HomeWork\CheckTask\CheckTask\obj\Debug\net8.0\ref\CheckTask.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CheckTask": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
